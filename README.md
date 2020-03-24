@@ -16,5 +16,6 @@ source venv/bin/activate
 ```
 ## Usage
 To compare data from two diffirent days:
-
+```shell
 python compare_data.py data/covid-19-pl20200320-101649.json data/covid-19-pl20200324-160907.json
+```
