@@ -1,0 +1,352 @@
+[
+  {
+    "Województwo": "Cała Polska",
+    "Powiat/Miasto": "Łącznie",
+    "Liczba": "156",
+    "Liczba zgonów": "3",
+    "Id": "t0000"
+  },
+  {
+    "Województwo": "łódzkie",
+    "Powiat/Miasto": "bełchatowski",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t1001"
+  },
+  {
+    "Województwo": "śląskie",
+    "Powiat/Miasto": "będziński",
+    "Liczba": "2",
+    "Liczba zgonów": "",
+    "Id": "t2401"
+  },
+  {
+    "Województwo": "lubelskie",
+    "Powiat/Miasto": "biłgorajski",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t0602"
+  },
+  {
+    "Województwo": "dolnośląskie",
+    "Powiat/Miasto": "bolesławiecki",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t0201"
+  },
+  {
+    "Województwo": "śląskie",
+    "Powiat/Miasto": "Chorzów",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t2463"
+  },
+  {
+    "Województwo": "śląskie",
+    "Powiat/Miasto": "cieszyński",
+    "Liczba": "4",
+    "Liczba zgonów": "",
+    "Id": "t2403"
+  },
+  {
+    "Województwo": "pomorskie",
+    "Powiat/Miasto": "Gdańsk",
+    "Liczba": "2",
+    "Liczba zgonów": "",
+    "Id": "t2261"
+  },
+  {
+    "Województwo": "lubuskie",
+    "Powiat/Miasto": "Gorzów Wielkopolski",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t0861"
+  },
+  {
+    "Województwo": "lubelskie",
+    "Powiat/Miasto": "janowski",
+    "Liczba": "5",
+    "Liczba zgonów": "",
+    "Id": "t0605"
+  },
+  {
+    "Województwo": "opolskie",
+    "Powiat/Miasto": "kędzierzyńsko-kozielski",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t1603"
+  },
+  {
+    "Województwo": "świętokrzyskie",
+    "Powiat/Miasto": "Kielce",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t2661"
+  },
+  {
+    "Województwo": "małopolskie",
+    "Powiat/Miasto": "Kraków",
+    "Liczba": "2",
+    "Liczba zgonów": "",
+    "Id": "t1261"
+  },
+  {
+    "Województwo": "opolskie",
+    "Powiat/Miasto": "krapkowicki",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t1605"
+  },
+  {
+    "Województwo": "dolnośląskie",
+    "Powiat/Miasto": "Legnica",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t0262"
+  },
+  {
+    "Województwo": "dolnośląskie",
+    "Powiat/Miasto": "legnicki",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t0209"
+  },
+  {
+    "Województwo": "podkarpackie",
+    "Powiat/Miasto": "leżajski",
+    "Liczba": "7",
+    "Liczba zgonów": "",
+    "Id": "t1808"
+  },
+  {
+    "Województwo": "lubelskie",
+    "Powiat/Miasto": "lubartowski",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t0608"
+  },
+  {
+    "Województwo": "lubelskie",
+    "Powiat/Miasto": "Lublin",
+    "Liczba": "9",
+    "Liczba zgonów": "1",
+    "Id": "t0663"
+  },
+  {
+    "Województwo": "łódzkie",
+    "Powiat/Miasto": "łódzki wschodni",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t1006"
+  },
+  {
+    "Województwo": "łódzkie",
+    "Powiat/Miasto": "Łódź",
+    "Liczba": "14",
+    "Liczba zgonów": "",
+    "Id": "t1061"
+  },
+  {
+    "Województwo": "dolnośląskie",
+    "Powiat/Miasto": "oleśnicki",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t0214"
+  },
+  {
+    "Województwo": "warmińsko-mazurskie",
+    "Powiat/Miasto": "Olsztyn",
+    "Liczba": "3",
+    "Liczba zgonów": "",
+    "Id": "t2862"
+  },
+  {
+    "Województwo": "świętokrzyskie",
+    "Powiat/Miasto": "ostrowiecki",
+    "Liczba": "3",
+    "Liczba zgonów": "",
+    "Id": "t2607"
+  },
+  {
+    "Województwo": "warmińsko-mazurskie",
+    "Powiat/Miasto": "ostródzki",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t2815"
+  },
+  {
+    "Województwo": "łódzkie",
+    "Powiat/Miasto": "pabianicki",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t1008"
+  },
+  {
+    "Województwo": "mazowieckie",
+    "Powiat/Miasto": "piaseczyński",
+    "Liczba": "3",
+    "Liczba zgonów": "",
+    "Id": "t1418"
+  },
+  {
+    "Województwo": "łódzkie",
+    "Powiat/Miasto": "poddębicki",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t1011"
+  },
+  {
+    "Województwo": "zachodniopomorskie",
+    "Powiat/Miasto": "policki",
+    "Liczba": "2",
+    "Liczba zgonów": "",
+    "Id": "t3211"
+  },
+  {
+    "Województwo": "wielkopolskie",
+    "Powiat/Miasto": "Poznań",
+    "Liczba": "7",
+    "Liczba zgonów": "1",
+    "Id": "t3064"
+  },
+  {
+    "Województwo": "wielkopolskie",
+    "Powiat/Miasto": "poznański",
+    "Liczba": "3",
+    "Liczba zgonów": "",
+    "Id": "t3021"
+  },
+  {
+    "Województwo": "mazowieckie",
+    "Powiat/Miasto": "pruszkowski",
+    "Liczba": "3",
+    "Liczba zgonów": "",
+    "Id": "t1421"
+  },
+  {
+    "Województwo": "mazowieckie",
+    "Powiat/Miasto": "Radom",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t1463"
+  },
+  {
+    "Województwo": "śląskie",
+    "Powiat/Miasto": "Rybnik",
+    "Liczba": "5",
+    "Liczba zgonów": "",
+    "Id": "t2473"
+  },
+  {
+    "Województwo": "podkarpackie",
+    "Powiat/Miasto": "Rzeszów",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t1863"
+  },
+  {
+    "Województwo": "lubuskie",
+    "Powiat/Miasto": "słubicki",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t0805"
+  },
+  {
+    "Województwo": "śląskie",
+    "Powiat/Miasto": "Sosnowiec",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t2475"
+  },
+  {
+    "Województwo": "zachodniopomorskie",
+    "Powiat/Miasto": "stargardzki",
+    "Liczba": "3",
+    "Liczba zgonów": "",
+    "Id": "t3214"
+  },
+  {
+    "Województwo": "opolskie",
+    "Powiat/Miasto": "strzelecki",
+    "Liczba": "4",
+    "Liczba zgonów": "",
+    "Id": "t1611"
+  },
+  {
+    "Województwo": "zachodniopomorskie",
+    "Powiat/Miasto": "Szczecin",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t3262"
+  },
+  {
+    "Województwo": "warmińsko-mazurskie",
+    "Powiat/Miasto": "szczycieński",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t2817"
+  },
+  {
+    "Województwo": "śląskie",
+    "Powiat/Miasto": "tarnogórski",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t2413"
+  },
+  {
+    "Województwo": "lubelskie",
+    "Powiat/Miasto": "tomaszowski",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t0618"
+  },
+  {
+    "Województwo": "łódzkie",
+    "Powiat/Miasto": "tomaszowski",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t1016"
+  },
+  {
+    "Województwo": "śląskie",
+    "Powiat/Miasto": "Tychy",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t2477"
+  },
+  {
+    "Województwo": "dolnośląskie",
+    "Powiat/Miasto": "wałbrzyski",
+    "Liczba": "1",
+    "Liczba zgonów": "",
+    "Id": "t0221"
+  },
+  {
+    "Województwo": "mazowieckie",
+    "Powiat/Miasto": "Warszawa",
+    "Liczba": "24",
+    "Liczba zgonów": "",
+    "Id": "t1465"
+  },
+  {
+    "Województwo": "dolnośląskie",
+    "Powiat/Miasto": "Wrocław",
+    "Liczba": "18",
+    "Liczba zgonów": "1",
+    "Id": "t0264"
+  },
+  {
+    "Województwo": "śląskie",
+    "Powiat/Miasto": "zawierciański",
+    "Liczba": "3",
+    "Liczba zgonów": "",
+    "Id": "t2416"
+  },
+  {
+    "Województwo": "łódzkie",
+    "Powiat/Miasto": "zgierski",
+    "Liczba": "3",
+    "Liczba zgonów": "",
+    "Id": "t1020"
+  }
+]
