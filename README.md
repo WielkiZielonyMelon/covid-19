@@ -3,17 +3,17 @@ Some statistics regarding infection of covid-19 in Poland with some tools that e
 
 ## Instalation
 1. Create virtual environment
-
+```shell
 python -m venv venv
-
+```
 2. Install requirements
-
+```shell
 pip install -r requirements.txt
-
+```
 3. Activate virtual env
-
+```shell
 source venv/bin/activate
-
+```
 ## Usage
 To compare data from two diffirent days:
 
