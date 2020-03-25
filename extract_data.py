@@ -12,7 +12,7 @@ def extract_data_from(filename):
             vovoidship = item[common.VOVOIDSHIP]
             vovoidship = vovoidship.replace("-", "-\n", 1)
             x_labels.append(vovoidship)
-            y_infections_per_vovoidship.append((vovoidship, int(item[common.INFECTIONS])))
+            y_infections_per_vovoidship.append((vovoidship, int(item[common.INFECTIONS] or 0)))
             y_deaths_per_vovoidship.append((vovoidship, int(item[common.DEATHS] or 0)))
 
     start_of_date = filename.find(common.DATA_FILENAME_HEADER) + \
