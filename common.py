@@ -6,8 +6,7 @@ VOVOIDSHIP = "Województwo"
 INFECTIONS = "Liczba"
 DEATHS = "Liczba zgonów"
 VOVOIDSHIPS = ["dolnośląskie", "kujawsko-pomorskie", "lubelskie", "lubuskie",
-               "łódzkie", "małopolskie", "mazowieckie","opolskie",
+               "łódzkie", "małopolskie", "mazowieckie", "opolskie",
                "podkarpackie", "podlaskie", "pomorskie", "śląskie",
                "świętokrzyskie", "warmińsko-mazurskie", "wielkopolskie",
                "zachodniopomorskie"]
-

@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+
 def plot_data(x_labels, y_infections, y_deaths, timestamp,
               vovoidships_previous_data=None, previous_timestamp=None):
     fig, ax = plt.subplots()
@@ -23,16 +24,16 @@ def plot_data(x_labels, y_infections, y_deaths, timestamp,
     ax.set_xticklabels(x_labels, rotation="vertical")
     
     ax.legend()
-    
+
     def autolabel(rects):
         """Attach a text label above each bar in *rects*, displaying its height."""
         for rect in rects:
             height = rect.get_height()
             ax.annotate('{}'.format(height),
-                xy=(rect.get_x() + rect.get_width() / 2, height),
-                xytext=(0, 3),  # 3 points vertical offset
-                textcoords="offset points",
-                ha='center', va='bottom')
+                        xy=(rect.get_x() + rect.get_width() / 2, height),
+                        xytext=(0, 3),  # 3 points vertical offset
+                        textcoords="offset points",
+                        ha='center', va='bottom')
     
     autolabel(infections)
     autolabel(deaths)

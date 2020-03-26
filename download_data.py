@@ -10,7 +10,8 @@ import requests
 import common
 
 parser = argparse. ArgumentParser()
-parser.add_argument("--page", type=str, help="Web page that data will be extracted from", default="https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2")
+parser.add_argument("--page", type=str, help="Web page that data will be extracted from",
+                    default="https://www.gov.pl/web/koronawirus/wykaz-zarazen-koronawirusem-sars-cov-2")
 parser.add_argument("--delay", type=int, help="After what time page will be downloaded again", default=3600)
 parser.add_argument("--xpath", type=str, help="xpath query with data to extract", default="pre[@id=\"registerData\"]")
 parser.add_argument("--key", type=str, help="Extract value of this key", default="parsedData")
