@@ -1,5 +1,7 @@
 # covid-19
-Some statistics regarding infection of covid-19 in Poland with some tools that extract/plot data
+Some statistics regarding infection of covid-19 in Poland with some tools that extract/plot data.
+
+NOTE: This project will not be developed anymore. I just wanted to get some basic skills in page parsing and plotting data.
 
 ## Instalation
 1. Create virtual environment
